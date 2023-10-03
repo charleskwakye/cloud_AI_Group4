@@ -15,4 +15,6 @@ Cloud AI group 4 Github github repository
 - Charles Nana Kwakye (IT Manager)
   ![alt text](https://github.com/charleskwakye/cloud_AI_Group4/blob/main/files/%20charles.jpeg?raw=true)
 - Emmanuel Akpandara (Software Developer)
+- ![image](https://github.com/charleskwakye/cloud_AI_Group4/assets/91525197/c2f6ded1-2b1a-45b9-a9ee-dc3636b99510)
+
 - Alec Verstappen
