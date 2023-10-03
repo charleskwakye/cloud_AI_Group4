@@ -3,6 +3,7 @@
 Cloud AI group 4 Github github repository
 
 ## Team: GROUP 4
+## Company Name: Datastax
 
 ## Coordinantor: Jochen Mariën
 
